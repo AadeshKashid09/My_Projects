@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fork the  Original repo from github to your repository.<br>
 clone the repo in your system using :<br>
 git clone https://github.com/sejal3008/Visitmate2023.git (fork repo url)<br>
@@ -22,3 +23,6 @@ git checkout master <br>
 git merge upstream/master <br>
 resolve all merge conflicts <br>
 
+=======
+# My_Projects
+>>>>>>> 80fed4e4083296dbec88092b093596b649a5df01
