@@ -5,6 +5,8 @@ This repository contains multiple projects that showcase my work and skills in w
 ## PaytmWallet
 
 Paytm Wallet is a web-based application that mimics the functionalities and user interface of the popular Paytm Wallet app. The project aims to provide users with a seamless experience for managing their digital wallet, handling user registration, and interacting with wallet features such as adding money, checking balance, and performing transactions.
+A project designed to mimic the user interface and functionalities of the Paytm Wallet app. So far, the UI has been developed, and a user registration form has been implemented. The backend uses Node.js, Express, and MySQL to handle user registration and authentication.
+
 
 ### Key Features:
 - **User Registration**: A user-friendly registration form where users can sign up by providing their personal details.
